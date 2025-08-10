@@ -1,7 +1,6 @@
-# 🌴 Server Cumana 🎮
-
-¡Bienvenido a **Server Cumana**!  
-Un servidor de Minecraft gestionado con amor y tecnología.
+# 🌴 Server 🎮
+ 
+Un servidor de Minecraft para jugar con los panas.
 
 ## 👑 Autores
 
